@@ -1,5 +1,6 @@
 # FlappyBird
 This is one of my projects developed while beginning my software journey. This is a classic game developed solely for the purpose of learning and getting first hand experience of the software development field which enabled me to learn various things.
+<br>
 Language used here: Python.
 <br>
 Platform and Library used : PyCharm.
